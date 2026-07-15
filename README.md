@@ -47,3 +47,10 @@
 *Last updated: 2026-07-15* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Tejaswinivadlapatla/coding.py/tree/master/0172-factorial-trailing-zeroes) |
+<!---LeetCode Topics End-->
