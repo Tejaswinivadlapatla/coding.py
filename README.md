@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-8-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-7--20--2026-green?style=for-the-badge)
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **6** |
+| 🟢 Easy | **1** |
+| 🟡 Medium | **7** |
 | 🔴 Hard | **0** |
-| **Total** | **6** |
+| **Total** | **8** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| Java | **6** |
+| Java | **8** |
 
 ## 📂 Repository Structure
 
@@ -47,18 +47,3 @@
 *Last updated: 2026-07-20* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswinivadlapatla/coding.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Two Pointers
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswinivadlapatla/coding.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswinivadlapatla/coding.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-<!---LeetCode Topics End-->
