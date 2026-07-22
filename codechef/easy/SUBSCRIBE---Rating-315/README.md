@@ -60,7 +60,7 @@ YES
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-21T18:21:10.260Z  
+**Submitted:** 2026-07-22T18:04:10.906Z  
 
 ```py
 t = int(input())
